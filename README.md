@@ -7,6 +7,3 @@ I'm Syed Wasif Murtaza Jafri, a data enthusiast with 5+ years of experience turn
 - 📊 Focused on fraud detection, time-series modeling, and ML operations  
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/wasifmurtaza) or [Email](mailto:wasifjafri94@example.com)
 
-<!--
-**jafri115/jafri115** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->

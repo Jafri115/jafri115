@@ -5,5 +5,5 @@ I'm Syed Wasif Murtaza Jafri, a data enthusiast with 5+ years of experience turn
 - 🧠 Passionate about solving real-world problems using ML & cloud technologies  
 - 🛠️ Skilled in Python, Java, SQL, TensorFlow, Spark, AWS & Azure  
 - 📊 Focused on fraud detection, time-series modeling, and ML operations  
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/wasifmurtaza) or [Email](mailto:wasifjafri94@example.com)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/wasifmurtaza) or [Email](mailto:wasifjafri94@example.com)  
 
